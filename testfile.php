@@ -7,6 +7,7 @@
 
 // Add some text in here for fun
 
-this is master
+
+this is master and Test combined after merging
 
 ?>
